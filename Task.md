@@ -6,3 +6,18 @@ create a new postgreSQL database called CapeTown_airbnb_listing. It contains jus
 
 Note
 We have gone over the ways that you can import a .csv file into the PostgreSQL database but [this resource][ ](https://www.youtube.com/watch?v=6Jf7eTkIaR4)https://www.youtube.com/watch?v=6Jf7eTkIaR4summarizes it, in case you need a refresher.
+
+## Part 2: Data Cleaning
+As always, once you have received any dataset, your first task is to orient yourself to the data contained within. While exploring the data, you should keep an eye out for any of potential data issues that need to be cleaned.
+
+In your copy of the cleaning_data.md file, describe what issues you addressed by cleaning the data and provide the queries you executed to clean the data.
+
+## Part 3: Starting with Questions
+This database provides data on Summary information and metrics for AirBnB listings in Cape Town.
+
+In the starting_with_questions.md file there are 5 questions you need to answer using the data. For each question, be sure to include: The queries you used to answer the question and The answer to the question
+
+## Part 4: Starting with Data
+Consider the data you have available to you. 
+
+In the starting_with_data.md file, write 3 - 5 new questions that you could answer with this database. For each question, include The queries you used to answer the question The answer to the question
