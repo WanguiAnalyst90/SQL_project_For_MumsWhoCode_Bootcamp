@@ -7,7 +7,7 @@ create a new postgreSQL database called CapeTown_airbnb_listing. It contains jus
 Note
 We have gone over the ways that you can import a .csv file into the PostgreSQL database but [this resource][ ](https://www.youtube.com/watch?v=6Jf7eTkIaR4)https://www.youtube.com/watch?v=6Jf7eTkIaR4summarizes it, in case you need a refresher.
 
-## Part 2: Data Cleaning
+## Part 2: Data Exploration and Cleaning
 As always, once you have received any dataset, your first task is to orient yourself to the data contained within. While exploring the data, you should keep an eye out for any of potential data issues that need to be cleaned.
 
 In your copy of the cleaning_data.md file, describe what issues you addressed by cleaning the data and provide the queries you executed to clean the data.
