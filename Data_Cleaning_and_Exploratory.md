@@ -2,6 +2,14 @@ Fill out this file with a description of the issues that will be addressed by cl
 Include the queries used to clean the data
 Explore the data to reveal shape, patterns and its overview 
 Queries:
+Remove duplicates
+SELECT DISTINCT*
+FROM listings;
+Delete amenities and host_verifications column as they are irrelevant and redundant to the analysis respectively
+ALTER TABLE listings
+DROP COLUMN amenities;
+ALTER TABLE listings
+DROP COLUMN host_verifications;
 
 ```sql
 --Query for creating the listings table in the CapetownAirBnB Database
